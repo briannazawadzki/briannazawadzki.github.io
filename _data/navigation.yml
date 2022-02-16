@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: https://briannazawadzki.github.io/files/ZawadzkiCV.pdf
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
