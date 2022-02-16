@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV](https://github.com/briannazawadzki/briannazawadzki.github.io/blob/master/files/ZawadzkiCV.pdf)
+[Click here to view my CV](https://briannazawadzki.github.io/blob/master/files/ZawadzkiCV.pdf)
 
 (last revised Feb 16 2022)
