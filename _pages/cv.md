@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV](https://briannazawadzki.github.io/files/Zawadzki_CV_Oct23.pdf)
+[Click here to view my CV](https://briannazawadzki.github.io/files/Zawadzki_CV_April24.pdf)
 
 (last revised Oct 19 2023)
